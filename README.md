@@ -2,10 +2,6 @@
 
 This repository contains the submission for ENPM809Y Final Project - Navigate autonomously using SLAM and action-client nodes in ROS2. The waypoints are determined by reading the positions of batteries placed in the environment through cameras. The TF tree is consulted to obtain the current position of the robot and the waypoint locations.
 
-# Maze-Navigation-and-Object-Detection
-
-This repository contains the submission for ENPM809Y RWA 3  - A ROS package to move a turtlebot in a maze. To move through the maze, the turtlebot relies on Aruco markers. While the turtlebot navigates the maze, it will need to ﬁnd and report objects found in the environment. The order in which the waypoint should be navigated is got by reading a aruco marker. 
-
 ![Video GIF](https://github.com/suhasnagaraj99/Autonomous-Mobile-Robot-Navigation/blob/main/final_demo.gif)
 
 ## Repository Structure
