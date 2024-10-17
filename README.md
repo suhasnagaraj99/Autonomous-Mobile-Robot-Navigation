@@ -68,7 +68,7 @@ This repository contains the submission for ENPM809Y Final Project - Navigate au
    
 3. **Launch the file `tbot_pub.launch.py` (node) to get the waypoints/goals**:
    ```bash
-   ros2 launch group5 tbot_pub.launch.py
+   ros2 launch group5_final tbot_pub.launch.py
    ```
 
 4. **Run the node `tbot_through_poses` to call action `NavigateThroughPoses` OR Run the node `tbot_follow_waypoints` to call action `FollowWaypoints`for navigation**:
